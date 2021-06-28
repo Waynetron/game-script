@@ -8,7 +8,7 @@
     "firebase": "^5.10.0",
     "immutable": "^4.0.0-rc.12",
     "node-sass": "^4.11.0",
-    "prismjs": "^1.15.0",
+    "prismjs": "^1.24.0",
     "react": "^16.7.0-alpha.0",
     "react-custom-properties": "^1.2.0",
     "react-dom": "^16.7.0-alpha.0",
